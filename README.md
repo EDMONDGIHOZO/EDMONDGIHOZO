@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**EDMONDGIHOZO/EDMONDGIHOZO**
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EDMONDGIHOZO)](https://github.com/EDMONDGIHOZO/github-readme-stats)
 
 - 🔭 I’m currently working on WDJOBS Platform
